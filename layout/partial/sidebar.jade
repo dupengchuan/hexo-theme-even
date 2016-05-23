@@ -8,7 +8,7 @@ if display != "remove"
   aside
     .author
       a(href=url_for('.'))
-        img.author-img(src=url_for("img/author.png"))
+        img.author-img(src=url_for(theme.favicon))
       h2.author-name!= config.author
     if is_post()
       - var hasToc = !!toc(page.content, {list_number: false})
