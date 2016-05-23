@@ -1,0 +1,43 @@
+# navbar
+menu:
+  Home: /
+  Archives: /archives/
+  Tags: /tags/
+  About: /about/
+
+# site icon
+favicon: /favicon.ico
+
+# sidebar
+## display: post / always / hide / remove
+sidebar:
+  display: hide
+
+## Friends Link
+friends:
+  Yzzting: http://www.yzz1995.cn
+  XenK0u: http://henbukexue.science
+  Suvan: http://www.suvan.net.cn
+  Leyar: https://www.ileyar.com
+
+# Analytics
+## Baidu Analytics
+baidu_analytics: 3da6a058b90a794d9abcb126661965af
+## Google Analytics
+google_analytics: UA-74273646-1
+
+# Comments
+## Duoshuo
+#duoshuo_shortname: dupengchuan
+## Disqus
+disqus_shortname: dupengchuan
+
+# Social links
+social:
+  email: du_pengchuan@163.com
+  github: https://github.com/dupengchuan
+  # twitter:
+  # facebook:
+  weibo: http://weibo.com/ahonn
+  zhihu: https://www.zhihu.com/people/mu-rong-chuan-38
+  rss: /atom.xml
