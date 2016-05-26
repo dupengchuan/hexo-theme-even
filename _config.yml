@@ -24,7 +24,7 @@ friends:
 ## Baidu Analytics
 baidu_analytics: 3da6a058b90a794d9abcb126661965af
 ## Google Analytics
-google_analytics: UA-74273646-1
+##google_analytics: UA-74273646-1
 
 # Comments
 ## Duoshuo
@@ -36,8 +36,8 @@ disqus_shortname: dupengchuan
 social:
   email: du_pengchuan@163.com
   github: https://github.com/dupengchuan
-  # twitter:
+  twitter: https://twitter.com/dupengchuan
   # facebook:
-  weibo: http://weibo.com/ahonn
+  weibo: http://weibo.com/pengchuandu
   zhihu: https://www.zhihu.com/people/mu-rong-chuan-38
   rss: /atom.xml
